@@ -64,3 +64,4 @@ def get_package_detail(track_no):
 
     except Exception as e:
         logging.error('Error occurred : \n Error Message: ' + str(e))
+
